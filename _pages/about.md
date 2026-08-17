@@ -38,20 +38,6 @@ My research primarily focuses on interference management and intelligent resourc
 Our research aims to explore how advanced wireless technologies and artificial intelligence (AI) techniques can be leveraged to improve the reliability, stability, and intelligence of next-generation industrial wireless communication systems. I have published several papers with total <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>google scholar </a> <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'><img src="https://badgen.net/https/{{ url | remove: 'https://' }}"></a>. 
 
 
-<!--"https://badgen.net/http/{{ url | remove: 'https://' }}"-->
-
-<!--生成的 URL 是：{{ url }}
-URL是： "https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"
-BADgen url： "https://badgen.net/https/{{ url | url_encode }}?color=9cf&label=citations"
-https://badgen.net/https/cdn.jsdelivr.net/gh/wang104225/wang104225.github.io@google-scholar-stats/gs_data_badgen.json
-url: 是https://raw.githubusercontent.com/wang104225/wang104225.github.io/google-scholar-stats/gs_data_badgen.json
--->
-
-<!-- <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>. 
--->
-
 
 For more information, please visit our research group at BUPT.
 
