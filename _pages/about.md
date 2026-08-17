@@ -47,13 +47,13 @@ https://badgen.net/https/cdn.jsdelivr.net/gh/ChangyuanZhao/ChangyuanZhao.github.
 url: 是https://raw.githubusercontent.com/ChangyuanZhao/ChangyuanZhao.github.io/google-scholar-stats/gs_data_badgen.json
 -->
 
-<!-- <a href='https://scholar.google.com/citations?user=FI6q53MAAAAJ'>
+<!-- <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>
 <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>. 
 -->
 
 
-For more information, please visit our research group at NTU.
+For more information, please visit our research group at BUPT.
 
 <!-- <div class="position-alert">
   🔎 I am currently seeking academic positions in wireless communications and AI.
