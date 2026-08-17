@@ -35,7 +35,7 @@ Prior to this, I received my B.Eng. degree from Beijing Jiaotong University, Chi
 
 My research primarily focuses on interference management and intelligent resource optimization in industrial wireless networks. 
 
-Our research aims to explore how advanced wireless technologies and artificial intelligence (AI) techniques can be leveraged to improve the reliability, stability, and intelligence of next-generation industrial wireless communication systems. I have published several papers with total <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>google scholar </a> <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'><img src="https://badgen.net/https/{{ url | remove: 'https://' }}"></a>. 
+Our research aims to explore how advanced wireless technologies and artificial intelligence (AI) techniques can be leveraged to improve the reliability, stability, and intelligence of next-generation industrial wireless communication systems. I have published several papers with total <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>google scholar </a> <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>. 
 
 
 
