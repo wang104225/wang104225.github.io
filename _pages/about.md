@@ -29,13 +29,14 @@ redirect_from:
 
 # 👋 About Me {#about-me}
 
-Hi! I am currently a PhD candidate at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, supervised by [Prof. Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (IEEE Fellow).
+Hi! I am currently a PhD candidate at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, supervised by [Prof. Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (IEEE Fellow). Hi! I am currently a Postdoctoral Research Fellow at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), China, under the supervision of Prof. Ping Zhang ( Academician of the Chinese Academy of Engineering, IEEE Fellow).
 
-Prior to this, I obtained a B.Sc. degree at the University of Science and Technology of China, China, and an M.Eng. degree at the University of Chinese Academy of Sciences, Institute of Software, China, under the guidance of [Prof. Bai Xue](https://lcs.ios.ac.cn/~xuebai/).
+Prior to this, I received my B.Eng. degree from Beijing Jiaotong University, China, and my Ph.D. degree from Beijing University of Posts and Telecommunications under the guidance of Prof. Lei Feng.
 
-My research is primarily centered around the utilization of Generative AI (GenAI) and Large Language Models (LLMs) in wireless communications and intelligent networking. 
+My research primarily focuses on interference management and intelligent resource optimization in industrial wireless networks. 
 
-Our primary objective is to investigate how intelligent networks can support a wide range of GenAI and LLM models, and "how GenAI and LLM models can enhance the performance, security, and reliability of next-generation communication systems. I have published several papers with total <a href='https://scholar.google.com/citations?user=FI6q53MAAAAJ'>google scholar </a> <a href='https://scholar.google.com/citations?user=FI6q53MAAAAJ'><img src="https://badgen.net/https/{{ url | remove: 'https://' }}"></a>. 
+Our research aims to explore how advanced wireless technologies and artificial intelligence (AI) techniques can be leveraged to improve the reliability, stability, and intelligence of next-generation industrial wireless communication systems. I have published several papers with total <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>google scholar </a> <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'><img src="https://badgen.net/https/{{ url | remove: 'https://' }}"></a>. 
+
 
 <!--"https://badgen.net/http/{{ url | remove: 'https://' }}"-->
 
