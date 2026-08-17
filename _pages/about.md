@@ -29,7 +29,7 @@ redirect_from:
 
 # 👋 About Me {#about-me}
 
-Hi! I am currently a PhD candidate at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, supervised by [Prof. Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (IEEE Fellow). Hi! I am currently a Postdoctoral Research Fellow at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), China, under the supervision of Prof. Ping Zhang ( Academician of the Chinese Academy of Engineering, IEEE Fellow).
+Hi! I am currently a Postdoctoral Research Fellow at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), China, under the supervision of [Prof. Ping Zhang](https://www.bupt.edu.cn/info/1070/83435.htm) ( Academician of the Chinese Academy of Engineering, IEEE Fellow).
 
 Prior to this, I received my B.Eng. degree from Beijing Jiaotong University, China, and my Ph.D. degree from Beijing University of Posts and Telecommunications under the guidance of Prof. Lei Feng.
 
