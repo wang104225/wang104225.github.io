@@ -48,21 +48,25 @@ For more information, please visit our research group at BUPT.
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉One first-author paper has been accepted by npj Wireless Technology.
-- *2026.07*: &nbsp;🎉🎉One first-author paper has been accepted by the 2026 IEEE/CIC International Conference on Communications in China (ICCC).
-- *2026.05*: &nbsp;📖📖 I am back in Suwon, South Korea, for another visit to Sungkyunkwan University. Many thanks to [Prof. Dong In Kim](https://scholar.google.com/citations?user=v2chr7kAAAAJ&hl=en).
-- *2026.03*: &nbsp;🎉🎉Two first-author papers have been accepted by the IEEE Communications Magazine.
-- *2026.02*: &nbsp;🎉🎉One first-author paper has been accepted by the IEEE Journal on Selected Areas in Communications.
-- *2026.01*: &nbsp;🎉🎉One first-author paper has been accepted by the IEEE Transactions on Cognitive Communications and Networking. Thanks Prof. Dusit and Prof. Kim!
+- *2026.08*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Transactions on Vehicular Technology. Thanks Prof. Jiakang and Prof. Xiangwang!
+- *2026.08*: &nbsp;🎉🎉 One paper as the corresponding author has been accepted by the IEEE Transactions on Communications. Thanks Dr. Jian!
+- *2026.07*: &nbsp;🎉🎉 One co-authored paper has been accepted by the IEEE Communications Magazine. Thanks Dr. Xuan!
+- *2026.06*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Communications Magazine. Thanks Prof. Shiwen Mao and Prof. Zhu Han!
+- *2026.03*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Communications Magazine. Thanks Prof. Zehui Xiong and Prof. Shiwen Mao!
+- *2026.02*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Network. Many thanks to Prof. Ping and Prof. Abbas Jamalipour!
+- *2026.01*: &nbsp;🎉🎉 One first-author paper has been accepted by the Chinese Journal of Aeronautics. Thanks Prof. Geng!
 - *2025.12*: &nbsp;🎉🎉 Honored to receive the Exemplary Reviewer Award, IEEE Transactions on Network Science and Engineering (TNSE), 2025. Many thanks to the TNSE community for the recognition.
-- *2025.12*: &nbsp;🎉🎉One first-author paper has been accepted by the IEEE Transactions on Mobile Computing. Thanks Prof. Dusit and Prof. Kim!
-- *2025.08*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Wireless Communications. Thanks Prof. Dusit and Prof. Kim!
-- *2025.07*: &nbsp;🎉🎉 Two papers have been accepted to the 2025 IEEE Global Communications Conference (GLOBECOM) — looking forward to seeing you in Taipei, Taiwan, this December!
-- *2025.05*: &nbsp;🎉🎉 One co-authored paper has been awarded the Best Paper Award in the 21st International Wireless Communications & Mobile Computing Conference. Thanks Prof. Dusit and Dr. Jiacheng!
-- *2025.03*: &nbsp;🎉🎉 One co-authored paper has been accepted by the IEEE Internet of Things Journal. Thanks Prof. Dusit and Prof. Geng Sun!
-- *2025.03*: &nbsp;📖📖 I arrive in Suwon, South Korea, and will start the visit at Sungkyunkwan University, hosted by [Prof. Dong In Kim](https://scholar.google.com/citations?user=v2chr7kAAAAJ&hl=en).
-- *2024.12*: &nbsp;🎉🎉 One first-author paper has been accepted to the 39th Annual AAAI Conference on Artificial Intelligence — see you in Philadelphia, Pennsylvania, USA, next March!
-- *2024.11*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Wireless Communications. Thanks Prof. Dusit and Prof. Jiawen!
+- *2025.12*: &nbsp;🎉🎉 One co-authored paper has been accepted by the IEEE Wireless Communications. Thanks Dr. Yikun!
+- *2025.12*: &nbsp;🎉🎉 One co-authored paper has been accepted by the IEEE Transactions on Network Science and Engineering. Thanks Dr. Jian!
+- *2025.11*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Transactions on Cognitive Communications and Networking. Thanks Prof. Kaibin Huang!
+- *2025.10*: &nbsp;🎉🎉 Honored to receive the National Scholarship for Ph.D. Students awarded by the Ministry of Education of China.
+- *2025.10*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Wireless Communications.
+- *2025.05*: &nbsp;🎉🎉 Honored to receive the Outstanding Ph.D. Student Innovation Fund from BUPT. Many thanks to BUPT!
+- *2025.03*: &nbsp;🎉🎉 One co-authored paper has been accepted by the IEEE Wireless Communications. Thanks Prof. Zhixiang!
+- *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Internet of Things Journal.
+- *2024.12*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Transactions on Communications. Thanks Prof. Dusit and Prof. Hongyang!
+- *2024.08*: &nbsp;🎉🎉 One first-author paper has been accepted to the 2024 IEEE/CIC International Conference on Communications in China (ICCC), see you in Shanghai, China, this August!
+- *2024.04*: &nbsp;🎉🎉 One first-author paper has been accepted by the 2024 IEEE Wireless Communications and Networking Conference (WCNC). Thanks Prof. Lei!
 
 
 
