@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changyuan Zhao <br>  赵常源"
+  name             : "Xudong Wang <br>  汪旭东"
   avatar           : "images/NEW_page.png"
-  bio              : "College of Computing and Data Science, Nanyang Technological University"
-  location         : "Singapore"
+  bio              : "School of Information and Communication Engineering, Beijing University of Posts and Telecommunications"
+  location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FI6q53MAAAAJ"
-  email            : "zhao0441@e.ntu.edu.sg"
+  googlescholar    : "https://scholar.google.com/citations?user=M77zFZAAAAAJ"
+  email            : "xdwang@bupt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ChangyuanZhao"
+  github           : "Xudong Wang"
   google_plus      :
   keybase          :
   instagram        :
