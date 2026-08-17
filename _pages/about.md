@@ -48,11 +48,12 @@ For more information, please visit our research group at BUPT.
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Transactions on Vehicular Technology. Thanks Prof. Jiakang and Prof. Xiangwang!
+- *2026.08*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Transactions on Vehicular Technology.
 - *2026.08*: &nbsp;🎉🎉 One paper as the corresponding author has been accepted by the IEEE Transactions on Communications. Thanks Dr. Jian!
+- *2026.07*: &nbsp;🎉🎉 Honored to have one first-author invited paper accepted by the 2026 International Symposium on Wireless Communication Systems (ISWCS). Thanks to the ISWCS community!
 - *2026.07*: &nbsp;🎉🎉 One co-authored paper has been accepted by the IEEE Communications Magazine. Thanks Dr. Xuan!
 - *2026.06*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Communications Magazine. Thanks Prof. Shiwen Mao and Prof. Zhu Han!
-- *2026.03*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Communications Magazine. Thanks Prof. Zehui Xiong and Prof. Shiwen Mao!
+- *2026.03*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Communications Magazine. Thanks Prof. Shiwen Mao!
 - *2026.02*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Network. Many thanks to Prof. Ping and Prof. Abbas Jamalipour!
 - *2026.01*: &nbsp;🎉🎉 One first-author paper has been accepted by the Chinese Journal of Aeronautics. Thanks Prof. Geng!
 - *2025.12*: &nbsp;🎉🎉 Honored to receive the Exemplary Reviewer Award, IEEE Transactions on Network Science and Engineering (TNSE), 2025. Many thanks to the TNSE community for the recognition.
