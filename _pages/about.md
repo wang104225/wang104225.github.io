@@ -43,8 +43,8 @@ Our research aims to explore how advanced wireless technologies and artificial i
 <!--生成的 URL 是：{{ url }}
 URL是： "https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"
 BADgen url： "https://badgen.net/https/{{ url | url_encode }}?color=9cf&label=citations"
-https://badgen.net/https/cdn.jsdelivr.net/gh/ChangyuanZhao/ChangyuanZhao.github.io@google-scholar-stats/gs_data_badgen.json
-url: 是https://raw.githubusercontent.com/ChangyuanZhao/ChangyuanZhao.github.io/google-scholar-stats/gs_data_badgen.json
+https://badgen.net/https/cdn.jsdelivr.net/gh/wang104225/wang104225.github.io@google-scholar-stats/gs_data_badgen.json
+url: 是https://raw.githubusercontent.com/wang104225/wang104225.github.io/google-scholar-stats/gs_data_badgen.json
 -->
 
 <!-- <a href='https://scholar.google.com/citations?user=M77zFZAAAAAJ'>
