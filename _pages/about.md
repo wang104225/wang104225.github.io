@@ -66,7 +66,7 @@ For more information, please visit our research group at BUPT.
 - *2025.03*: &nbsp;🎉🎉 One co-authored paper has been accepted by the IEEE Wireless Communications. Thanks Prof. Zhixiang!
 - *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Internet of Things Journal.
 - *2024.12*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Transactions on Communications. Thanks Prof. Dusit and Prof. Hongyang!
-- *2024.08*: &nbsp;🎉🎉 One first-author paper has been accepted to the 2024 IEEE/CIC International Conference on Communications in China (ICCC), see you in Shanghai, China, this August!
+- *2024.08*: &nbsp;🎉🎉 One first-author paper has been accepted to the 2024 IEEE/CIC International Conference on Communications in China (ICCC), see you in Hangzhou, China, this August!
 - *2024.04*: &nbsp;🎉🎉 One first-author paper has been accepted by the 2024 IEEE Wireless Communications and Networking Conference (WCNC). Thanks Prof. Lei!
 
 
