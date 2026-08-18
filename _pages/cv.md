@@ -38,6 +38,8 @@ min_content_height_4k: 1200px # 4K显示器
 
 - *2025.10* China National Scholarship for Ph.D. Students
 
+- *2025.05* Outstanding Ph.D. Student Innovation Fund from BUPT
+
 
 
 <div style="min-height: 600px;"></div>
