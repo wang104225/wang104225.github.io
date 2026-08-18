@@ -31,7 +31,7 @@ redirect_from:
 
 Hi! I am currently a Postdoctoral Research Fellow at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), China, under the supervision of [Prof. Ping Zhang](https://www.bupt.edu.cn/info/1070/83435.htm) ( Academician of the Chinese Academy of Engineering, IEEE Fellow).
 
-Prior to this, I received my B.Eng. degree from Beijing Jiaotong University, China, and my Ph.D. degree from Beijing University of Posts and Telecommunications under the guidance of Prof. Lei Feng.
+Prior to this, I received my B.Eng. degree from Beijing Jiaotong University, China, and my Ph.D. degree from Beijing University of Posts and Telecommunications under the guidance of [Prof. Lei Feng](https://teacher.bupt.edu.cn/fenglei).
 
 My research primarily focuses on interference management and intelligent resource optimization in industrial wireless networks. 
 
@@ -82,7 +82,7 @@ For more information, please visit our research group at BUPT.
     <h3>✈️ Travel Map</h3>
     <div id="travel-map"></div>
     <p class="map-note">
-      Since 2024 Dec., I have visited <span id="total-cities">0</span> cities with a total of <span id="total-visits">0</span> travel experiences.
+      Since 2023 Mar., I have visited <span id="total-cities">0</span> cities with a total of <span id="total-visits">0</span> travel experiences.
     </p>
   </div>
 
