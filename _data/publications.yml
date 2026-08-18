@@ -1,220 +1,240 @@
 # code: ""
 
-- title: "Generative AI for secure physical layer communications: A survey"
-  url: "https://ieeexplore.ieee.org/document/10623395"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+- title: "Symbol Error Rate Analysis of Multi-IRS-Aided Distributed Space-Time Block Coding in MISO Wireless Communication Systems"
+  url: "https://ieeexplore.ieee.org/abstract/document/10570634"
+  type: "Conference"     # ✅ 可为 "Journal" 或 "Conference"
   year: 2024
-  venue: "IEEE Transactions on Cognitive Communications and Networking"
-  short: "TCCN"
+  venue: "2024 IEEE Wireless Communications and Networking Conference"
+  short: "WCNC"
   authors:
-    - Changyuan Zhao
-    - Hongyang Du
-    - Dusit Niyato
-    - Jiawen Kang
-    - Zehui Xiong
-    - Dong In Kim
-    - Xuemin Shen
-    - Khaled B Letaief
+    - Xudong Wang
+    - Lei Feng
+    - Fanqin Zhou
+    - Wenjing Li
 
-- title: "Enhancing Physical Layer Communication Security through Generative AI with Mixture of Experts"
-  url: "https://ieeexplore.ieee.org/document/10839236"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2025
-  venue: "IEEE Wireless Communications"
-  short: "WCM"
-  authors:
-    - Changyuan Zhao
-    - Hongyang Du
-    - Dusit Niyato
-    - Jiawen Kang
-    - Zehui Xiong
-    - Dong In Kim
-    - Xuemin Shen
-    - Khaled B Letaief
-
-- title: "Generative AI-Enabled Wireless Communications for Robust Low-Altitude Economy Networking"
-  url: "https://ieeexplore.ieee.org/document/11169307"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2025
-  venue: "IEEE Wireless Communications"
-  short: "WCM"
-  authors:
-    - Changyuan Zhao
-    - Jiacheng Wang
-    - Ruichen Zhang
-    - Dusit Niyato
-    - Geng Sun
-    - Hongyang Du
-    - Dong In Kim
-    - Abbas Jamalipour
-
-    
-- title: "Inner approximating robust reach-avoid sets for discrete-time polynomial dynamical systems"
-  url: "https://ieeexplore.ieee.org/document/9910391"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2022
-  venue: "IEEE Transactions on Automatic Control"
-  short: "TAC"
-  authors:
-    - Changyuan Zhao
-    - Shuyuan Zhang
-    - Lei Wang
-    - Bai Xue
-
-
-- title: "Maximum-likelihood Estimation based on Diffusion Model for Wireless Communications"
-  url: "https://ieeexplore.ieee.org/document/11432059"
+- title: "Joint Power Allocation and Reliability Optimization with Generative AI for Wireless Networked Control Systems"
+  url: "https://ieeexplore.ieee.org/abstract/document/10693774"
   type: "Conference"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2025
-  venue: "2025 IEEE Global Communications Conference"
-  short: "GLOBECOM"
-  authors:
-    - Changyuan Zhao
-    - Jiacheng Wang
-    - Ruichen Zhang
-    - Dusit Niyato
-    - Dong In Kim
-    - Hongyang Du
-
-- title: "Outer-approximating Controlled Reach-avoid Sets for Polynomial Systems"
-  url: "https://ieeexplore.ieee.org/document/9993391"
-  type: "Conference"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2022
-  venue: "2022 IEEE 61st Conference on Decision and Control"
-  short: "CDC"
-  authors:
-    - Changyuan Zhao
-    - Chuchu Fan
-    - Bai Xue
-    
-- title: "Supervised Score-Based Modeling by Gradient Boosting"
-  url: "https://dl.acm.org/doi/10.1609/aaai.v39i21.34437"
-  type: "Conference"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2025
-  venue: "2025 The 39th Annual AAAI Conference on Artificial Intelligence"
-  short: "AAAI"
-  authors:
-    - Changyuan Zhao
-    - Hongyang Du
-    - Guangyuan Liu
-    - Dusit Niyato
-
-
-- title: "Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning"
-  url: "https://ieeexplore.ieee.org/document/11311556"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2025
-  venue: "IEEE Transactions on Mobile Computing"
-  short: "TMC"
-  authors:
-    - Changyuan Zhao
-    - Ruichen Zhang
-    - Jiacheng Wang
-    - Dusit Niyato
-    - Geng Sun
-    - Hongyang Du
-    - Zan Li
-    - Abbas Jamalipour
-    - Dong In Kim
-    
-- title: "Edge General Intelligence Through World Models, Large Language Models, and Agentic AI: Fundamentals, Solutions, and Challenges"
-  url: "https://ieeexplore.ieee.org/document/11366905"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2026
-  venue: "IEEE Transactions on Cognitive Communications and Networking"
-  short: "TCCN"
-  authors:
-    - Changyuan Zhao
-    - Guangyuan Liu
-    - Ruichen Zhang
-    - Yinqiu Liu
-    - Jiacheng Wang
-    - Jiawen Kang
-    - Dusit Niyato
-    - Zan Li
-    - Zhu Han
-    - Sumei Sun
-    - Chau Yuen
-    - Dong In Kim
-
-
-- title: "SecDiff: Diffusion-Aided Secure Deep Joint Source-Channel Coding Against Adversarial Attacks"
-  url: "https://ieeexplore.ieee.org/document/11417835"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2026
-  venue: "IEEE Journal on Selected Areas in Communications"
-  short: "JSAC"
-  authors:
-    - Changyuan Zhao
-    - Jiacheng Wang
-    - Ruichen Zhang
-    - Dusit Niyato
-    - Hongyang Du
-    - Zehui Xiong
-    - Dong In Kim
-    - Ping Zhang
-
-
-- title: "From Agentification to Self-Evolving Agentic AI for Wireless Networks: Concepts, Approaches, and Future Research Directions"
-  url: "https://ieeexplore.ieee.org/document/11519591"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2026
-  venue: "IEEE Communications Magazine"
-  short: "COMMAG"
-  authors:
-    - Changyuan Zhao
-    - Ruichen Zhang
-    - Jiacheng Wang
-    - Dusit Niyato
-    - Geng Sun
-    - Xianbin Wang
-    - Shiwen Mao
-    - Abbas Jamalipour
-
-- title: "World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks"
-  url: "https://ieeexplore.ieee.org/document/11551151"
-  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2026
-  venue: "IEEE Communications Magazine"
-  short: "COMMAG"
-  authors:
-    - Changyuan Zhao
-    - Ruichen Zhang
-    - Jiacheng Wang
-    - Gaosheng Zhao
-    - Dusit Niyato
-    - Geng Sun
-    - Zehui Xiong
-    - Shiwen Mao
-    - Dong In Kim
-
-- title: "Integrated Sensing, Communication, and Computing for Low-Altitude Wireless Networks with Security-Aware Information Freshness"
-  # url: "https://ieeexplore.ieee.org/document/11432059"
-  type: "Conference"     # ✅ 可为 "Journal" 或 "Conference"
-  year: 2026
-  venue: "2026 IEEE/CIC International Conference on Communications in China"
+  year: 2024
+  venue: "2024 IEEE/CIC International Conference on Communications in China"
   short: "ICCC"
   authors:
-    - Changyuan Zhao
-    - Huijun Xing
-    - Jiacheng Wang
-    - Yunting Xu
-    - Rahim Tafazolli
+    - Xudong Wang
+    - Lei Feng
+    - Fanqin Zhou
+    - Wenjing Li
 
 
-- title: "Rethinking Wireless Communications through Formal Mathematical AI Reasoning"
-  # url: "https://ieeexplore.ieee.org/document/11551151"
+- title: "Resource Allocation and User Pairing for Rate Splitting Multiple Access Based Wireless Networked Control Systems"
+  url: "https://ieeexplore.ieee.org/document/11169307"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2024
+  venue: "IEEE Transactions on Communications"
+  short: "TCOM"
+  authors:
+    - Xudong Wang
+    - Hongyang Du
+    - Lei Feng
+    - Dusit Niyato
+    - Fanqin Zhou
+    - Zhixiang Yang
+    - Wenjing Li
+
+    
+- title: "Effective Throughput Maximization for NOMA-Enabled URLLC Transmission in Industrial IoT Systems: A Generative AI-Based Approach"
+  url: "https://ieeexplore.ieee.org/abstract/document/10852212"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2025
+  venue: "IEEE Internet of Things Journal"
+  short: "IoTJ"
+  authors:
+    - Xudong Wang
+    - Hongyang Du
+    - Lei Feng
+    - Fanqin Zhou
+    - Wenjing Li
+
+
+- title: "Revolutionizing Wireless Networks with Self-Supervised Learning: A Pathway to Intelligent Communications"
+  url: "https://ieeexplore.ieee.org/abstract/document/10930396"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2025
+  venue: "IEEE Wireless Communications"
+  short: "WCM"
+  authors:
+    - Zhixiang Yang
+    - Hongyang Du
+    - Dusit Niyato
+    - Xudong Wang
+    - Yu Zhou
+    - Lei Feng
+    - Fanqin Zhou
+    - Wenjing Li
+    - Xuesong Qiu
+
+- title: "GDM Enhanced CNN-based First Arrival Path Delay Estimation Framework"
+  url: "https://ieeexplore.ieee.org/abstract/document/11133798"
+  type: "Conference"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2025
+  venue: "2025 34th International Conference on Computer Communications and Networks"
+  short: "ICCCN"
+  authors:
+    - Jiale Quan
+    - Xudong Wang*
+    - Tianhang Sun
+    - Wenjing Li
+    
+- title: "Generative AI Enabled Matching for 6G Multiple Access"
+  url: "https://ieeexplore.ieee.org/abstract/document/11222705"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2025
+  venue: "IEEE Wireless Communications"
+  short: "WCM"
+  authors:
+    - Xudong Wang
+    - Hongyang Du
+    - Dusit Niyato
+    - Lijie Zhou
+    - Lei Feng
+    - Zhixiang Yang
+    - Fanqin Zhou
+    - Wenjing Li
+    
+- title: "Energy-Efficient RSMA-Enabled Low-Altitude MEC Optimization via Generative AI-Enhanced Deep Reinforcement Learning"
+  url: "https://ieeexplore.ieee.org/abstract/document/11237098"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2025
+  venue: "IEEE Transactions on Cognitive Communications and Networking"
+  short: "TCCN"
+  authors:
+    - Xudong Wang
+    - Hongyang Du
+    - Lei Feng
+    - Kaibin Huang
+
+
+- title: "Joint Beamforming, User Association, and Antenna Position Optimization in Movable Antenna-Assisted Cell-Free Massive MIMO"
+  url: "https://ieeexplore.ieee.org/abstract/document/11271835"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2025
+  venue: "IEEE Transactions on Network Science and Engineering"
+  short: "TNSE"
+  authors:
+    - Jian Zhu
+    - Lei Feng
+    - Xudong Wang
+    - Hongyang Du
+    - Shaoyong Guo
+
+    
+- title: "Semantic Communication for Low-Altitude Economy: Harnessing the Power of Generative AI and Edge Intelligence"
+  url: "https://ieeexplore.ieee.org/abstract/document/11297438"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2025
+  venue: "IEEE Wireless Communications"
+  short: "WCM"
+  authors:
+    - Lei Feng
+    - Huaide Liu
+    - Yikun Zhao
+    - Xudong Wang
+    - Fanqin Zhou
+    - Wenjing Li
+
+
+
+- title: "Energy-aware trajectory and resource management for NOMA-enabled MEC in UAV-based airborne maneuvering networks: A PPO-driven approach"
+  url: "https://www.sciencedirect.com/science/article/pii/S1000936126000099#aep-article-footnote-id1"
   type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
   year: 2026
-  venue: "npj Wireless Technology"
-  short: "npj"
+  venue: "Chinese Journal of Aeronautics"
+  short: "CJA"
   authors:
-    - Changyuan Zhao
+    - Xudong Wang
+    - Lei Feng
     - Jiacheng Wang
+    - Jiangtian Nie
+    - Xiangwang Hou
+    - Geng Sun
+
+
+
+- title: "LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT"
+  url: "https://ieeexplore.ieee.org/abstract/document/11417175"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2026
+  venue: "IEEE Network"
+  short: "Network"
+  authors:
+    - Xudong Wang
+    - Lei Feng
+    - Ruichen Zhang
+    - Fanqin Zhou
+    - Hongyang Du
+    - Wenjing Li
     - Dusit Niyato
-    - Zan Li
     - Abbas Jamalipour
-    - Xianbin Wang
-    - Dong In Kim
+    - Ping Zhang
+
+- title: "Hallucination in Generative AI-Enabled Wireless Communications: Concepts, Issues, and Solutions"
+  url: "https://ieeexplore.ieee.org/abstract/document/11433461"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2026
+  venue: "IEEE Communications Magazine"
+  short: "COMMAG"
+  authors:
+    - Xudong Wang
+    - Jiacheng Wang
+    - Lei Feng
+    - Dusit Niyato
+    - Ruichen Zhang
+    - Jiawen Kang
+    - Zehui Xiong
+    - Hongyang Du
+    - Shiwen Mao
+
+- title: "Chain-of-Thought for Large Language Model-Empowered Wireless Communications"
+  url: "https://ieeexplore.ieee.org/abstract/document/11551150"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2026
+  venue: "IEEE Communications Magazine"
+  short: "COMMAG"
+  authors:
+    - Xudong Wang
+    - Jian Zhu
+    - Ruichen Zhang
+    - Lei Feng
+    - Dusit Niyato
+    - Jiacheng Wang
+    - Hongyang Du
+    - Shiwen Mao
+    - Zhu Han
 
 
+- title: "Agentic AI-Enabled Robust Sensing for ISAC Low-altitude MEC Networks: Challenges, Solutions, and Case Study"
+  url: "https://ieeexplore.ieee.org/abstract/document/11643545"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2026
+  venue: "IEEE Communications Magazine"
+  short: "COMMAG"
+  authors:
+    - Xuan Zhang
+    - Lei Feng
+    - Fanqin Zhou
+    - Xudong Wang
+
+
+- title: "Joint Beamforming and Segmentation Optimization for Segmented RIS-Assisted Cell-Free mMIMO Systems Under Perfect and Imperfect CSI"
+  url: "https://ieeexplore.ieee.org/abstract/document/11648213"
+  type: "Journal"     # ✅ 可为 "Journal" 或 "Conference"
+  year: 2026
+  venue: "IEEE Transactions on Communications"
+  short: "TCOM"
+  authors:
+    - Jian Zhu
+    - Lei Feng
+    - Fanqin Zhou
+    - Xudong Wang*
+    - Zhixiang Yang
+    - Wenjing Li
+    - Baofeng Ji
