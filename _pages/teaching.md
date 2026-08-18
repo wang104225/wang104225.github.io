@@ -11,8 +11,8 @@ min_content_height_4k: 1200px # 4K显示器
 
 
 # 📚 Teaching Assistant
-- *SC1007*: &nbsp; DATA STRUCTURES & ALGORITHMS, NTU, Fall Semester, 2024
-- *SC1007*: &nbsp; DATA STRUCTURES & ALGORITHMS, NTU, Spring Semester, 2025
+- Discrete Mathematics, BUPT, Fall Semester, 2021
+- Introduction to Computing, BUPT, Spring Semester, 2022
 
 
 <div style="min-height: 600px;"></div>
