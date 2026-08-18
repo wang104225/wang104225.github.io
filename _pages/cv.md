@@ -36,9 +36,6 @@ min_content_height_4k: 1200px # 4K显示器
 
 - *2026.06* BUPT Outstanding Graduate Award
 
-- *2025.12* Exemplary Reviewer, *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025
-![Reviewer_tnse](./images/tnse_2025.png)
-
 - *2025.10* China National Scholarship for Ph.D. Students
 
 
