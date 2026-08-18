@@ -114,7 +114,7 @@ cities:
     visits:
       - 2024-06-02
 
-- city: Jinan
+  - city: Jinan
     lat: 36.6516
     lon: 117.1211
     visits:
