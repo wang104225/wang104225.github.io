@@ -11,7 +11,7 @@ min_content_height_4k: 1200px # 4K显示器
 
 
 # 📖 Educations
-- *Beijing University of Posts and Telecommunications, China* <br/>
+- *Beijing University of Posts and Telecommunications, China*
 **Postdoctoral Researcher, July. 2026 – Present**  
 ◦ Supervised by Prof. Ping Zhang
 
