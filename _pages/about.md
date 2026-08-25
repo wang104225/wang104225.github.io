@@ -42,7 +42,7 @@ For more information, please visit our research group at BUPT.
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Thrilled to see our team's project, ``High-Reliability Integrated Communication Technologies and Applications for Power Distribution and Utilization,'' showcased at the 12th International Exhibition of Inventions!
+- *2026.08*: &nbsp;🎉🎉 Thrilled to see our team's project, "High-Reliability Integrated Communication Technologies and Applications for Power Distribution and Utilization,'' showcased at the 12th International Exhibition of Inventions!
 - *2026.08*: &nbsp;🎉🎉 One first-author paper has been accepted by the IEEE Transactions on Vehicular Technology.
 - *2026.08*: &nbsp;🎉🎉 One paper as the corresponding author has been accepted by the IEEE Transactions on Communications. Thanks Dr. Jian!
 - *2026.07*: &nbsp;🎉🎉 Honored to have one first-author invited paper accepted by the 2026 International Symposium on Wireless Communication Systems (ISWCS). Thanks to the ISWCS community!
